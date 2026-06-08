@@ -7,7 +7,7 @@ ACXX TradeX is a High-Frequency Trading (HFT) AI crypto scalping bot built for B
 * **Smart Risk Management:** Automated Stop-Loss, Trailing Stop, and Breakeven features to protect capital.
 * **Volume Validation & Pattern Recognition:** Filters out "scam wicks" by validating order book volume and candlestick patterns (e.g., Bullish Engulfing, Hammer, Flags).
 * **Anti-Liquidation Shield:** Automatically blacklists extremely volatile or low-liquidity coins (flash crash protection).
-* **Standalone Executable:** Compiled natively for Windows 10, requiring no Python environment installation.
+* **Standalone Executable:** Compiled natively for Windows 10 or higger, requiring no Python environment installation.
 
 ## System Requirements
 * **OS:** Windows 10 (64-bit)
@@ -48,7 +48,10 @@ Before running the bot, configure the settings from the **Global Settings** pane
   - Click **Save Config** to store all settings before starting the bot.
 
 Pro License & Trial
-Want to unlock all premium features and maximize your trading potential? You can request a Trial Pro License by contacting us via mail:
+New users will automatically receive a 7-day free trial upon their first use of the application.
+Want to continue unlocking all premium features and maximize your trading potential after the trial expires? 
+You can request a Pro License by contacting us via Telegram: t.me/acxxcxx
+
 
 <img width="1341" height="905" alt="image" src="https://github.com/user-attachments/assets/c9497a8f-06ef-49f7-92e6-b5592b2ada1e" />
 
