@@ -50,8 +50,11 @@ Before running the bot, configure the settings from the **Global Settings** pane
 Pro License & Trial
 Want to unlock all premium features and maximize your trading potential? You can request a Trial Pro License by contacting us via mail:
 
-<img width="1293" height="911" alt="image" src="https://github.com/user-attachments/assets/7109ca87-9e1c-46ed-b36e-d945568669a6" />
-<img width="702" height="885" alt="image" src="https://github.com/user-attachments/assets/a41e531c-be99-43c6-bb21-c48836eced00" />
+<img width="1341" height="905" alt="image" src="https://github.com/user-attachments/assets/c9497a8f-06ef-49f7-92e6-b5592b2ada1e" />
+
+<img width="953" height="884" alt="image" src="https://github.com/user-attachments/assets/55a62b80-174d-4075-ad9c-1dd888126a47" />
+
+<img width="734" height="893" alt="image" src="https://github.com/user-attachments/assets/04a519dc-b9ac-4fec-b909-73182ab420d1" />
 
 
 
